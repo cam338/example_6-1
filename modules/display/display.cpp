@@ -169,7 +169,9 @@ void displayCharPositionWrite( uint8_t charPositionX, uint8_t charPositionY )
             delay( 1 );         
         break;
     }
+
 }
+
 
 void displayStringWrite( const char * str )
 {
